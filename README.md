@@ -14,4 +14,4 @@ izin pak saya tidak pakai file leanback dari github karena belom faham sama file
 
 ![alt text](https://github.com/AlvinYiiey/AppTvPariwisata/blob/master/screen1.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/AlvinYiiey/AppTvPariwisata/blob/master/screen2.png?raw=true)
